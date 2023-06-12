@@ -67,7 +67,7 @@ namespace OOP_Project
 
         private int CalculateAllowance(int workHours, int count)
         {
-            int regularHours = 40; // 정규 근무시간
+            int regularHours = 40; // 정규 근무시간 8시간 * 5일 = 40시간
 
             if (count >= 5 && (workHours * count) >= 15) // 주 5회 근무 기준
             {
