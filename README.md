@@ -12,6 +12,5 @@
 ![슬라이드10](https://github.com/Mr-Forger/OOP_Project/assets/46594567/ecc8835c-ffc6-400b-9796-390317b5b273)
 ![슬라이드11](https://github.com/Mr-Forger/OOP_Project/assets/46594567/bf3163ce-d893-4464-b8de-f17d75d57668)
 ![슬라이드12](https://github.com/Mr-Forger/OOP_Project/assets/46594567/4e70d799-ef55-4d45-b762-6e5796621486)
-![슬라이드13](https://github.com/Mr-Forger/OOP_Project/assets/46594567/0c83e6e8-e1d8-43d3-b7d8-71d9f4fc6cd9)
 
 
